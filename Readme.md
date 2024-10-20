@@ -2,17 +2,13 @@
 
 - <strong>: Indicates important text, making it bold.
 - <b>: Also makes text bold but without extra semantic meaning.
-- third
 
-Bold Text:
+### 2.Italic Text:
 
-<strong>: Indicates important text, making it bold.
-<b>: Also makes text bold but without extra semantic meaning.
-Italic Text:
+- <em>: Emphasizes text, making it italic.
+- <i>: Italicizes text without additional emphasis.
 
-<em>: Emphasizes text, making it italic.
-<i>: Italicizes text without additional emphasis.
-Underlined Text:
+### 3. Underlined Text:
 
 <u>: Underlines the text.
 Strikethrough Text:
