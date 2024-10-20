@@ -11,13 +11,14 @@
 ### 3. Underlined Text:
 
 <u>: Underlines the text.
-Strikethrough Text:
+
+### 4.Strikethrough Text:
 
 <del>: Indicates deleted text with a strikethrough (semantically meaningful).
 <s>: Also applies a strikethrough but without indicating removal.
 Superscript and Subscript:
 
-<sup>: Superscript (text raised above the baseline).
+<!-- <sup>: Superscript (text raised above the baseline).
 <sub>: Subscript (text lowered below the baseline).
 Highlighted Text:
 
@@ -39,4 +40,4 @@ Blockquote:
 Preformatted Text:
 <pre>: Displays preformatted text, preserving spaces, line breaks, and indentation.
 Small Text:
-<small>: Renders text in a smaller font size.
+<small>: Renders text in a smaller font size. -->
