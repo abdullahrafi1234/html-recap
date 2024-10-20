@@ -1,6 +1,6 @@
 ### 1. Bold Text
 
-- <strong>: Indicates important text, making it bold.
+- <strong> Indicates important text, making it bold.
 - <b>Also makes text bold but without extra semantic meaning.
 
 ### 2.Italic Text:
@@ -10,7 +10,7 @@
 
 ### 3. Underlined Text:
 
-<u>Underlines the text.
+- <u>Underlines the text.
 
 ### 4.Strikethrough Text:
 
