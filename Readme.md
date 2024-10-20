@@ -1,21 +1,21 @@
 ### 1. Bold Text
 
 - <strong>: Indicates important text, making it bold.
-- <b>: Also makes text bold but without extra semantic meaning.
+- <b>Also makes text bold but without extra semantic meaning.
 
 ### 2.Italic Text:
 
-- <em>: Emphasizes text, making it italic.
-- <i>: Italicizes text without additional emphasis.
+- <em>Emphasizes text, making it italic.
+- <i>Italicizes text without additional emphasis.
 
 ### 3. Underlined Text:
 
-<u>: Underlines the text.
+<u>Underlines the text.
 
 ### 4.Strikethrough Text:
 
-<del>: Indicates deleted text with a strikethrough (semantically meaningful).
-<s>: Also applies a strikethrough but without indicating removal.
+<del>Indicates deleted text with a strikethrough (semantically meaningful).
+<s>Also applies a strikethrough but without indicating removal.
 Superscript and Subscript:
 
 <!-- <sup>: Superscript (text raised above the baseline).
