@@ -237,6 +237,15 @@ This text is      preformatted.
       </select>
       <br />
 
+      <!-- datalist use for suggesting input data-->
+      <label for="country">Country</label>
+      <input list="con" />
+      <datalist id="con">
+        <option value="Bangladesh"></option>
+        <option value="India"></option>
+        <option value="Canada"></option>
+      </datalist>
+
       <!-- choose file -->
       <label for="choose">Choose File:</label>
       <input type="file" id="choose" />
@@ -244,6 +253,7 @@ This text is      preformatted.
 
       <input type="submit" value="Submit" />
     </form>
+
     <br /><br />
 
     <!-- Button styling -->
